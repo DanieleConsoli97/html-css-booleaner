@@ -51,14 +51,22 @@ border-collapse: collapse;
 width: 100%;
 height: 200px;
 margin-top:20px;
+margin-left: 5px;
 }
 
 
-tbody tr td{
-background-color: #B1E5F2;
+tr td{
+background-color: #a90000;
 color:black;
 } 
 
-tr td th{
-width: 200px;
+/* dando la dimensione a th ridimensiona tutte le celle */
+/* th ha come impostazione predefinita text-align:center quindi modificandolo possiamo portare il testo a sinistra */
+th{
+width: 33.33333333%;
+text-align: left;
+}
+
+.rigacentrale td{
+background-color:white;
 }
