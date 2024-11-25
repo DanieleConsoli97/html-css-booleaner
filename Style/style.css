@@ -1,4 +1,9 @@
-*{margin:0px}
+*{
+    margin:0px;
+
+    margin-left: 2px;
+}
+
 .pattern{
     background-color:#4EA0FF;
     background-image: url("../img/pattern.png" );
@@ -25,4 +30,10 @@
 #nameeditor{
 
     color:#4EA0FF;
+}
+
+#list{
+
+    padding-left:10px;
+
 }
