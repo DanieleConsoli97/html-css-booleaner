@@ -1,4 +1,4 @@
-body{margin:0px}
+*{margin:0px}
 .pattern{
     background-color:#4EA0FF;
     background-image: url("../img/pattern.png" );
@@ -25,5 +25,4 @@ body{margin:0px}
 #nameeditor{
 
     color:#4EA0FF;
-
 }
