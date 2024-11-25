@@ -1,0 +1,17 @@
+body{margin:0px}
+.pattern{
+    background-color:#4EA0FF;
+    background-image: url("../img/pattern.png" );
+    height: 160px;
+    width: auto;
+    background-repeat: repeat;
+    background-size:contain;
+}
+
+
+#imglogo{
+    max-width: 300px;
+    height: auto;
+    margin-top: 70px;
+    margin-left: 30px;
+}
