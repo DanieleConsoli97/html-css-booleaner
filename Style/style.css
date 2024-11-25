@@ -1,7 +1,12 @@
 *{
     margin:0px;
+}
+main{
+margin-left:10px;
+margin-right:8px;
 
-    margin-left: 2px;
+    
+    
 }
 
 .pattern{
@@ -11,6 +16,7 @@
     width: auto;
     background-repeat: repeat;
     background-size:contain;
+    margin-left:px ;
 }
 
 
@@ -36,4 +42,10 @@
 
     padding-left:10px;
 
+}
+
+thead{
+background-color:#4EA0FF;
+color: white;
+border-collapse: collapse;
 }
